@@ -18,6 +18,7 @@ public class MainController {
 		ModelAndView modelAndView = new ModelAndView();
 		modelAndView.setViewName("index");
 		
+		
 		// w lokalizacji:  c:\Users\Jacek\Documents\JAVA\lib\
 		// jest plik: fakeSMTP-2.0.jar
 		//odpal to z polecenia:   java -jar fakeSMTP-2.0.jar
